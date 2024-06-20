@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\bin\Debug\net6.0\DelegateLibrary.deps.json
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\bin\Debug\net6.0\DelegateLibrary.dll
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\bin\Debug\net6.0\DelegateLibrary.pdb
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.dll
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\obj\Debug\net6.0\refint\DelegateLibrary.dll
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\obj\Debug\net6.0\DelegateLibrary.pdb
+C:\Users\CDAC\Desktop\Shivanjali\DelegatesDemo\DelegateLibrary\obj\Debug\net6.0\ref\DelegateLibrary.dll
