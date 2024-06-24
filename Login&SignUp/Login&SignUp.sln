@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingApp", "Login&SignUp\ShoppingApp.csproj", "{D3F696DD-2964-4F29-9922-AFE012C08227}"
+	ProjectSection(ProjectDependencies) = postProject
+		{866C1AFB-A5FE-4FB4-B162-D698E07B671C} = {866C1AFB-A5FE-4FB4-B162-D698E07B671C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginLibrary", "LoginLibrary\LoginLibrary.csproj", "{866C1AFB-A5FE-4FB4-B162-D698E07B671C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F696DD-2964-4F29-9922-AFE012C08227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F696DD-2964-4F29-9922-AFE012C08227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F696DD-2964-4F29-9922-AFE012C08227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F696DD-2964-4F29-9922-AFE012C08227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866C1AFB-A5FE-4FB4-B162-D698E07B671C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866C1AFB-A5FE-4FB4-B162-D698E07B671C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866C1AFB-A5FE-4FB4-B162-D698E07B671C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866C1AFB-A5FE-4FB4-B162-D698E07B671C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A394E345-BABD-40BB-841E-3739F962CBF5}
+	EndGlobalSection
+EndGlobal

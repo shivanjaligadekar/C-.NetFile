@@ -1,0 +1,14 @@
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\bin\Debug\net6.0\ShoppingApp.exe
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\bin\Debug\net6.0\ShoppingApp.deps.json
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\bin\Debug\net6.0\ShoppingApp.runtimeconfig.json
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\bin\Debug\net6.0\ShoppingApp.dll
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\bin\Debug\net6.0\ShoppingApp.pdb
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\ShoppingApp.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\ShoppingApp.dll
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\refint\ShoppingApp.dll
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\ShoppingApp.pdb
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\ShoppingApp.genruntimeconfig.cache
+C:\Users\CDAC\Desktop\Shivanjali\Login&SignUp\Login&SignUp\obj\Debug\net6.0\ref\ShoppingApp.dll
