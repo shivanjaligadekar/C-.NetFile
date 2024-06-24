@@ -1,0 +1,14 @@
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\IndexersAndlaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\IndexersAndlaggedArray.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\IndexersAndlaggedArray.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\IndexersAndlaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\bin\Debug\net6.0\IndexersAndlaggedArray.exe
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\bin\Debug\net6.0\IndexersAndlaggedArray.deps.json
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\bin\Debug\net6.0\IndexersAndlaggedArray.runtimeconfig.json
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\bin\Debug\net6.0\IndexersAndlaggedArray.dll
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\bin\Debug\net6.0\IndexersAndlaggedArray.pdb
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\IndexersAndlaggedArray.dll
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\refint\IndexersAndlaggedArray.dll
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\IndexersAndlaggedArray.pdb
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\IndexersAndlaggedArray.genruntimeconfig.cache
+C:\Users\CDAC\Desktop\Shivanjali\IndexersAndlaggedArray\IndexersAndlaggedArray\obj\Debug\net6.0\ref\IndexersAndlaggedArray.dll
